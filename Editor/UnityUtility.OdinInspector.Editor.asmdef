@@ -1,0 +1,21 @@
+{
+    "name": "UnityUtility.OdinInspector.Editor",
+    "rootNamespace": "",
+    "references": [
+        "UnityUtility",
+        "UnityUtility.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Editor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
