@@ -1,6 +1,6 @@
 {
   "name": "com.pluneau.unityutility_odininspector",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "displayName": "UnityUtility for OdinInspector",
   "unity": "6000.0",
   "dependencies": 
